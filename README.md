@@ -28,7 +28,7 @@ Participants are required to:
 
 ## Writeup
 
-To see how the challenge works, check out my blogsite [here](https://your-live-demo-url.com/).
+To see how the challenge works, check out my blogsite [here](https://alishba-malik.vercel.app/blog/writeups/thecycerthesisctf/crypto/blockchainbreach/theblockchainbreach).
 
 ---
 
